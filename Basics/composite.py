@@ -8,4 +8,4 @@ for i in range(1,N):
 if l>1:
   print('yes')        #If it is greater than 1 print yes
 else:
-  print('no')         #If it is greater than 1 print no
+  print('no')         #If it is smaller than 1 print no
